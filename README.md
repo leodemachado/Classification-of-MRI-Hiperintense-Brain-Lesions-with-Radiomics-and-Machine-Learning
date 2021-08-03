@@ -1,4 +1,4 @@
-# Separation of MRI-FLAIR Hiperintense Lesions
+# Classification of MRI Hiperintense Brain Lesions
 
 This project uses radiomics and machine learning to perform an automatic separation of multiplesclerosis (MS) and Cerebrovascular (CVL) lesions that cannot be 
 easily separated by a naked-eye analysis, since they both appear as hyperintense spots in MRI-FLAIR images. This study will investigates the separation
