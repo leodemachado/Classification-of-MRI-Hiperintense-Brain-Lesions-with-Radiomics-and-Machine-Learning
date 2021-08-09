@@ -1,3 +1,4 @@
 # gitignore
 
-BiasCorrectionHistMatching/Build/*
+*.nrrd
+Image-Preprocessing-and-Radiomic-Extraction/Histogram-Matching-Reference-Images/*.nrrd
