@@ -1,6 +1,6 @@
 # Classification of MRI Hiperintense Brain Lesions
 
-This project uses radiomics and machine learning to perform an automatic separation of multiplesclerosis (MS) and Cerebrovascular (CVL) lesions that cannot be 
+This project uses radiomics and machine learning to perform an automatic separation of multiple sclerosis (MS) and Cerebrovascular lesions (CVL)  that cannot be
 easily separated by a naked-eye analysis, since they both appear as hyperintense spots in MRI-FLAIR images. This study will investigates the separation
 in two experiments: only-FLAIR-Radiomic-Features and only-3DT1-Radiomic-Features   
 
